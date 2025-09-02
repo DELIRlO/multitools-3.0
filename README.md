@@ -136,5 +136,3 @@ Execute Get-ExecutionPolicy e certifique-se de estar RemoteSigned
 powershell
 # Para troubleshooting
 Get-ExecutionPolicy -List
-⭐ Dê uma estrela no repositório se este projeto foi útil!
-
