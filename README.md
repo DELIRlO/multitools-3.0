@@ -1,7 +1,4 @@
 Tools Shell - Sistema de Diagnóstico para Windows
-https://img.shields.io/badge/PowerShell-5.1+-blue.svg
-https://img.shields.io/badge/Windows-10%252F11-supported-green.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
 
 Uma ferramenta gráfica de diagnóstico e monitoramento para Windows desenvolvida em PowerShell com interface WinForms.
 
